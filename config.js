@@ -10,6 +10,6 @@
    JANGAN pernah menaruh service_role key di sini.
    ============================================================ */
 window.KASUPA_CONFIG = {
-  url: "https://ttiygijiqwkwtckyvyqd.supabase.co",
-  anonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR0aXlnaWppcXdrd3Rja3l2eXFkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODgyNDUwMjUsImV4cCI6MjEwMzgyMTAyNX0.z3u_Y9K6BukHmpoH3H4hMTaJh9W86BIfb4ioCTakrQc"
+  url: "https://wknaeqereqxrqwxsugth.supabase.co",
+  anonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndrbmFlcWVyZXF4cnF3eHN1Z3RoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg1MTkyNzksImV4cCI6MjEwNDA5NTI3OX0.yTOn5Ds75LydiNOcEfKj50RnTJQpCIJIXe-9_pONOao"
 };

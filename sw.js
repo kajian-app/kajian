@@ -1,8 +1,9 @@
 /* Service worker Kas UPA — hanya menyimpan berkas tampilan.
    Panggilan ke Supabase selalu lewat jaringan agar data tidak basi. */
-var CACHE = "kas-upa-v4";
+var CACHE = "kas-upa-v8";
 var CORE = ["./", "index.html", "app.js", "config.js", "manifest.json",
-  "icon-192.png", "icon-512.png", "icon-maskable-512.png", "apple-touch-icon.png"];
+  "icon-192.png", "icon-512.png", "icon-maskable-512.png", "apple-touch-icon.png",
+  "pic/logo.png", "pic/bismillah.png", "pic/background.png"];
 
 self.addEventListener("install", function (e) {
   e.waitUntil(caches.open(CACHE).then(function (c) {

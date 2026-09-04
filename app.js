@@ -305,7 +305,7 @@ var ICO = {
   cek: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="m4 12 5 5L20 6"/></svg>',
   chev: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="m9 6 6 6-6 6"/></svg>',
   ulang: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12a9 9 0 1 1-2.6-6.4"/><path d="M21 3v6h-6"/></svg>',
-  seal: '<svg viewBox="0 0 64 64" fill="none" stroke="#E0C179" stroke-width="3"><rect x="18" y="18" width="28" height="28"/><path d="M32 12 52 32 32 52 12 32Z"/></svg>'
+  seal: '<img src="pic/bismillah.png" alt="Bismillahirrahmanirrahim">'
 };
 function emptyState(pesan, tombol) {
   return '<div class="empty">' + ICO.empty + "<p>" + esc(pesan) + "</p>" + (tombol || "") + "</div>";
